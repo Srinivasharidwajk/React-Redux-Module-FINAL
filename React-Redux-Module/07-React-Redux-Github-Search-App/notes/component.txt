@@ -1,0 +1,13 @@
+import React from 'react';
+
+interface IProps {}
+interface IState {}
+
+let Message:React.FC<IProps> = () => {
+    return (
+        <React.Fragment>
+           <h3>Message Component</h3>
+        </React.Fragment>
+    );
+};
+export default Message;

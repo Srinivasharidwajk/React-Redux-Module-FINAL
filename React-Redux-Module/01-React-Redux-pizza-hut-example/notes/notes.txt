@@ -1,0 +1,13 @@
+redux
+react-redux
+redux-devtools-extension
+redux-logger
+redux-thunk
+
+@types/redux
+@types/react-redux
+@types/redux-devtools-extension
+@types/redux-logger
+@types/redux-thunk
+
+npm install redux react-redux redux-devtools-extension redux-logger redux-thunk  @types/redux @types/react-redux @types/redux-devtools-extension @types/redux-logger @types/redux-thunk
